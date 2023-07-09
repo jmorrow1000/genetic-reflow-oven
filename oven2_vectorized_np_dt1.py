@@ -1,7 +1,7 @@
 
 
 """industrial conveyor oven simulator 
-   by John Morrow
+   author: John Morrow
 
 Classes:
 --------
